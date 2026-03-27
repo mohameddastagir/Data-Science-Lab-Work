@@ -1,0 +1,32 @@
+# House Price Prediction (Intermediate ML Project)
+
+## Objective
+The objective of this project is to predict house prices based on various features such as size, number of rooms, and quality. It helps in understanding how machine learning models can be applied to real-world problems.
+
+## Methods Used
+- Data Cleaning (handling missing values)
+- Data Preprocessing (encoding categorical data)
+- Data Visualization (heatmaps, distribution plots)
+- Feature Selection (correlation analysis)
+- Models:
+  - Linear Regression
+  - Random Forest Regressor
+
+## Evaluation Metrics
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- Mean Absolute Error (MAE)
+
+## Key Insights
+- Features like overall quality and living area strongly influence house prices
+- Random Forest performed better than Linear Regression
+
+## Conclusion
+The project demonstrates that machine learning models can effectively predict house prices. With better feature engineering and tuning, the model performance can be further improved.
+
+## Files Included
+- Jupyter Notebook (.ipynb)
+- README.md
+
+## 📎 Dataset
+Kaggle - House Prices Dataset
